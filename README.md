@@ -14,7 +14,7 @@ As a senior computer science student at the University of Central Florida, I hav
 * Designing and implementing user-centered experiences
 * Computer vision techniques such as object recognition and image segmentation
 * Building and training neural networks using TensorFlow and Keras
-* Strong programming skills in Python and C++
+* Strong programming skills in JavaScript, Python, and C++
 
 # Projects:
 
