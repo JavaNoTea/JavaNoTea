@@ -5,12 +5,12 @@ As a senior computer science student at the University of Central Florida, I hav
 # Education:
 
 * Bachelor of Science in Computer Science, University of Central Florida
-* Relevant coursework: Computer Graphics, Machine Learning, Computer Vision, Artificial Intelligence, Frontend Web Development, User Experience Design
+* Relevant coursework: Machine Learning, Computer Vision, Artificial Intelligence, Frontend Web Development, User Experience Design
 
 # Skills:
 
-* AR/VR development using Unity and Unreal Engine
-* Frontend web development using HTML, CSS, and JavaScript frameworks such as React and Angular
+* AR/VR development using Unity
+* Frontend web development using HTML, CSS, and JavaScript frameworks such as React
 * Designing and implementing user-centered experiences
 * Computer vision techniques such as object recognition and image segmentation
 * Building and training neural networks using TensorFlow and Keras
