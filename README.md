@@ -5,7 +5,7 @@ As a senior computer science student at the University of Central Florida, I hav
 # Education:
 
 * Bachelor of Science in Computer Science, University of Central Florida
-* Relevant coursework: Machine Learning, Computer Vision, Artificial Intelligence, Frontend Web Development, User Experience Design
+* Relevant coursework: Computer Vision, Artificial Intelligence, Frontend Web Development, User Experience Design, Algorithms, Data Structures
 
 # Skills:
 
