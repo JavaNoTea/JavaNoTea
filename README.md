@@ -18,7 +18,7 @@ As a senior computer science student at the University of Central Florida, I hav
 
 # Projects:
 
-* Coca Cola AR: Developing an augmented reality application in Unity for Coca Cola for my senior design project at UCF. Utilizing SQL server for data storage and Power BI for data streaming and analytics. Demonstrating technical proficiency in software development and ability to work on complex projects.
+* Aetheria (In Progress): A thrilling VR game developed by a team of five UCF students as their senior design project. Set in a magical world overrun by evil spirits, players must fight to reclaim their lost kingdom. With stunning visuals and immersive gameplay, Aetheria is developed with Unity for Oculus Quest 2.
 *  Maze Solver: A maze builder and solver, developed using Java and JavaFX. This personal project was undertaken to gain experience with JavaFX and improve coding skills. The application features a breadth-first search algorithm for efficient maze solving with several other notable features.
 * Demo Gods: A server hosted arcade themed contact viewer. This project was developed by a team of five developers for a Processes of Object Oriented Programming class assignment. The name serves as a tribute to a story shared by our professor.
 
