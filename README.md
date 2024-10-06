@@ -38,6 +38,8 @@ Led a team as Scrum Master to develop *Sullivan’s Crypt*, a VR horror game wit
 *Knight Hacks 2023*  
 Created a Chrome extension designed to make web navigation easier for elderly and disabled individuals. Our project won 1st place out of 30 teams.
 
+and many more!
+
 ---
 
 ## 🌱 Interests
