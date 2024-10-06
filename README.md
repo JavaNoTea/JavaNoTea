@@ -1,5 +1,5 @@
 
-# Hi, I'm Christian King!
+## 👋 Hello, I'm Christian!
 
 Welcome to my GitHub! I'm an AI Researcher and Computer Engineer based in Orlando, FL. My passion for solving complex problems has driven me to explore various areas within artificial intelligence and machine learning. I’m particularly interested in intelligent systems, deep learning, and explainable AI. Here, you'll find some of the projects I’ve worked on during my academic journey and research positions, as well as personal projects that showcase my skills.
 
