@@ -1,32 +1,58 @@
-# Hello, I'm Christian King (@JavaNoTea)
 
-As a senior computer science student at the University of Central Florida, I have a strong passion for AR/VR, computer vision, AI, frontend development, and user experience design. Throughout my academic career, I have developed a solid understanding of these cutting-edge technologies, and I am eager to apply my skills and knowledge in a real-world setting.
+# Hi, I'm Christian King!
 
-# Education:
+Welcome to my GitHub! I'm an AI Researcher and Computer Engineer based in Orlando, FL. My passion for solving complex problems has driven me to explore various areas within artificial intelligence and machine learning. I’m particularly interested in intelligent systems, deep learning, and explainable AI. Here, you'll find some of the projects I’ve worked on during my academic journey and research positions, as well as personal projects that showcase my skills.
 
-* Bachelor of Science in Computer Science, University of Central Florida
-* Relevant coursework: Computer Vision, Artificial Intelligence, Frontend Web Development, User Experience Design, Algorithms, Data Structures
+---
 
-# Skills:
+## 🎓 Education
 
-* AR/VR development using Unity
-* Frontend web development using HTML, CSS, and JavaScript frameworks such as React
-* Designing and implementing user-centered experiences
-* Computer vision techniques such as object recognition and image segmentation
-* Building and training neural networks using TensorFlow and Keras
-* Strong programming skills in JavaScript, Python, and C++
+- **Master of Science in Computer Engineering**  
+  *University of Central Florida, 2024 - 2025*  
+  Specialization: Intelligent Systems & Machine Learning
 
-# Projects:
+- **Bachelor of Science in Computer Science**  
+  *University of Central Florida, 2021 - 2023*
 
-* Aetheria (In Progress): A thrilling VR game developed by a team of five UCF students as their senior design project. Set in a magical world overrun by evil spirits, players must fight to reclaim their lost kingdom. With stunning visuals and immersive gameplay, Aetheria is developed with Unity for Oculus Quest 2.
-*  Maze Solver: A maze builder and solver, developed using Java and JavaFX. This personal project was undertaken to gain experience with JavaFX and improve coding skills. The application features a breadth-first search algorithm for efficient maze solving with several other notable features.
-* Demo Gods: A server hosted arcade themed contact viewer. This project was developed by a team of five developers for a Processes of Object Oriented Programming class assignment. The name serves as a tribute to a story shared by our professor.
+---
 
-# Interests:
+## 💻 Skills
 
-* Staying up-to-date with the latest developments in AR/VR, frontend development, computer vision, AI, and user experience design
-* Exploring new and innovative applications for these technologies
-* Participating in hackathons and coding challenges to further develop my skills
-* Designing user-centered experiences that enhance user engagement and satisfaction
+- **Programming Languages:** Python, C, C++, C#, Java, Haskell, JavaScript, TypeScript, SQL  
+- **Frameworks & Libraries:** PyTorch, Keras, OpenCV, Fast.ai, Wandb, React, React Native, Node  
+- **Software & Tools:** Visual Studio, Eclipse, Valgrind, GNU, Unix, Blender, GIMP, Unity  
 
-I am a highly motivated and dedicated individual with a strong work ethic. I am eager to use my skills and knowledge to make a positive impact in the field of AR/VR, frontend development, computer vision, AI, and user experience design. If you are looking for a talented and driven individual to join your team, I would be honored to have the opportunity to discuss my qualifications further.
+---
+
+## 🛠️ Projects
+
+### Dungeons and Dragons Dice Reader  
+*PyTorch, ResNet, YOLOv8*  
+Developed a dice reader application that processes video streams to detect and classify different types of dice used in D&D games. Used YOLO and ResNet for image cropping and classification, and built a dataset with hundreds of annotated images.
+
+### Sullivan’s Crypt  
+*Unity, C#, GIMP, Blender, VR, XR Toolkit*  
+Led a team as Scrum Master to develop *Sullivan’s Crypt*, a VR horror game with procedurally generated maps. Implemented efficient pathfinding algorithms like A* and Bowyer-Watson to ensure unique gameplay experiences.
+
+### UCF Hack-A-Day Winner  
+*Knight Hacks 2023*  
+Created a Chrome extension designed to make web navigation easier for elderly and disabled individuals. Our project won 1st place out of 30 teams.
+
+---
+
+## 🌱 Interests
+
+Outside of my work in AI and software development, I’m passionate about maintaining a healthy, well-rounded lifestyle. I enjoy running and going to the gym, which helps me stay disciplined and focused in both my personal and professional life. I’m also an avid guitar player, which fuels my creativity and problem-solving skills. I love exploring new cultures through travel and trying different cuisines—sushi is my favorite! My curiosity extends beyond just technology; I’m constantly learning about a wide range of topics, which keeps me adaptable and open to new ideas.
+
+---
+
+## 👀 Conclusion
+
+Thanks for stopping by! Feel free to explore my projects, and don’t hesitate to reach out if you want to collaborate or discuss any research. I’m always looking for new challenges and opportunities to grow.
+
+---
+
+📧 **Email**: christiankingcompsci@gmail.com  
+🌐 **Portfolio**: [christianking.dev](https://christianking.dev)
+
+---
