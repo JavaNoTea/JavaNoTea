@@ -1,6 +1,6 @@
 ## Welcome
 
-Hi, I’m Christian King — a graduate researcher and engineer focused on artificial intelligence and machine learning. My work spans neural data compression, adversarial robustness, model alignment, and generative systems.
+Hi, I’m Christian King, a graduate researcher and engineer focused on artificial intelligence and machine learning. My work spans neural data compression, adversarial robustness, model alignment, and generative systems.
 
 I’m currently completing my master’s in Computer Engineering at the University of Central Florida, graduating in July 2025. I recently wrapped up a research collaboration with the Air Force Research Laboratory, where I worked on interpretable reinforcement learning and efficient neural representations.
 
