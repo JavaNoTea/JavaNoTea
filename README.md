@@ -10,7 +10,7 @@ My approach blends research depth with engineering precision. I build systems th
 
 ## Selected Projects
 
-### [buildaneural.net](https://www.buildaneural.net) **LIVE**
+### [buildaneural.net](https://www.buildaneural.net)
 A drag-and-drop neural architecture builder with real-time PyTorch code generation. Built with React, Next.js, FastAPI, and Docker. Supports 20+ layer types with a modular interface.
 
 ### Lexical Lullabies  
