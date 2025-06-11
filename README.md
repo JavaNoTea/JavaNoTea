@@ -4,25 +4,25 @@ Hi, I’m Christian King — a graduate researcher and engineer focused on artif
 
 I’m currently completing my master’s in Computer Engineering at the University of Central Florida, graduating in July 2025. I recently wrapped up a research collaboration with the Air Force Research Laboratory, where I worked on interpretable reinforcement learning and efficient neural representations.
 
-My approach blends research depth with engineering precision. I build systems that are technically rigorous and practically useful — whether that means simulating traffic patterns with GNNs or aligning large language models with human preferences.
+My approach blends research depth with engineering precision. I build systems that are technically rigorous and practically useful, whether that means simulating traffic patterns with GNNs or aligning large language models with human preferences.
 
 ---
 
 ## Selected Projects
 
-**Lexical Lullabies**  
+### Lexical Lullabies  
 Text-to-MIDI generation using LLaMA on paired symbolic music and natural language. Built a multimodal training pipeline to align musical structure with textual intent.
 
-**TraffiCast**  
+### TraffiCast
 Bidirectional graph neural network for highway traffic prediction. Designed dynamic edge weighting and directional flow modeling using over a decade of geospatial volume data.
 
-**BuildANeural.net**  
+### BuildANeural.net
 A drag-and-drop neural architecture builder with real-time PyTorch code generation. Built with React, Next.js, FastAPI, and Docker. Supports 20+ layer types with a modular interface.
 
-**Audio Encoder and LLM Alignment**  
+### Audio Encoder and LLM Alignment  
 Extended a preference optimization framework to align speech-to-text LLMs with human ratings. Improved performance across ASR and QA tasks through multi-stage finetuning.
 
-**DnD Dice Classifier**  
+### DnD Dice Classifier  
 YOLO and ResNet-based system for identifying physical dice from video streams. Constructed and augmented a custom dataset for robust training and evaluation.
 
 ---
