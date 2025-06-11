@@ -10,14 +10,14 @@ My approach blends research depth with engineering precision. I build systems th
 
 ## Selected Projects
 
+### [buildaneural.net](https://www.buildaneural.net) **LIVE**
+A drag-and-drop neural architecture builder with real-time PyTorch code generation. Built with React, Next.js, FastAPI, and Docker. Supports 20+ layer types with a modular interface.
+
 ### Lexical Lullabies  
 Text-to-MIDI generation using LLaMA on paired symbolic music and natural language. Built a multimodal training pipeline to align musical structure with textual intent.
 
 ### TraffiCast
 Bidirectional graph neural network for highway traffic prediction. Designed dynamic edge weighting and directional flow modeling using over a decade of geospatial volume data.
-
-### BuildANeural.net
-A drag-and-drop neural architecture builder with real-time PyTorch code generation. Built with React, Next.js, FastAPI, and Docker. Supports 20+ layer types with a modular interface.
 
 ### Audio Encoder and LLM Alignment  
 Extended a preference optimization framework to align speech-to-text LLMs with human ratings. Improved performance across ASR and QA tasks through multi-stage finetuning.
