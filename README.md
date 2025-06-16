@@ -1,44 +1,43 @@
-## Welcome
+# Christian King
 
-Hi, I’m Christian King, a graduate researcher and engineer focused on artificial intelligence and machine learning. My work spans neural data compression, adversarial robustness, model alignment, and generative systems.
+**AI/ML Engineer & Researcher** | MS Computer Engineering, UCF (July 2025)
 
-I’m currently completing my master’s in Computer Engineering at the University of Central Florida, graduating in July 2025. I recently wrapped up a research collaboration with the Air Force Research Laboratory, where I worked on interpretable reinforcement learning and efficient neural representations.
-
-My approach blends research depth with engineering precision. I build systems that are technically rigorous and practically useful, whether that means simulating traffic patterns with GNNs or aligning large language models with human preferences.
+Specializing in neural architectures, model alignment, and scalable ML systems. Recent collaboration with Air Force Research Laboratory on interpretable RL and efficient neural representations.
 
 ---
 
-## Selected Projects
+## Key Projects
 
 ### [buildaneural.net](https://www.buildaneural.net)
-A drag-and-drop neural architecture builder with real-time PyTorch code generation. Built with React, Next.js, FastAPI, and Docker. Supports 20+ layer types with a modular interface.
+**Neural Architecture Builder** - Drag-and-drop interface with real-time PyTorch code generation  
+*React, Next.js, FastAPI, Docker • 20+ layer types*
 
 ### Lexical Lullabies  
-Text-to-MIDI generation using LLaMA on paired symbolic music and natural language. Built a multimodal training pipeline to align musical structure with textual intent.
+**Text-to-MIDI Generation** - LLaMA-based multimodal pipeline for symbolic music generation  
+*Transformer architectures, sequence alignment*
 
 ### TraffiCast
-Bidirectional graph neural network for highway traffic prediction. Designed dynamic edge weighting and directional flow modeling using over a decade of geospatial volume data.
+**Traffic Prediction GNN** - Bidirectional graph neural network with dynamic edge weighting  
+*10+ years geospatial data, directional flow modeling*
 
-### Audio Encoder and LLM Alignment  
-Extended a preference optimization framework to align speech-to-text LLMs with human ratings. Improved performance across ASR and QA tasks through multi-stage finetuning.
+### LLM Speech Alignment  
+**Preference Optimization** - Multi-stage finetuning framework for speech-to-text models  
+*Improved ASR/QA performance through human preference alignment*
 
-### DnD Dice Classifier  
-YOLO and ResNet-based system for identifying physical dice from video streams. Constructed and augmented a custom dataset for robust training and evaluation.
-
----
-
-## Skills
-
-Python · PyTorch · TensorFlow · Keras · React · TypeScript · C++ · Docker · OpenCV · SQL · Firebase · Unity · FastAPI
+### Computer Vision Pipeline  
+**YOLO/ResNet Dice Classifier** - Real-time object detection with custom dataset augmentation  
+*Video stream processing, dataset construction*
 
 ---
 
-## About Me
+## Technical Stack
 
-I enjoy working at the intersection of systems research and applied AI. I value clarity, thoughtful design, and reproducibility. My portfolio includes everything from exploratory prototypes to full-stack deployed tools.
+**ML/AI**: PyTorch • TensorFlow • Keras • OpenCV  
+**Engineering**: Python • C++ • TypeScript • Docker • FastAPI  
+**Systems**: React • SQL • Firebase  
 
-Good engineering, to me, is a mix of curiosity, rigor, and iteration. I’m always interested in collaborating on technically challenging and meaningful projects.
+**Research Areas**: Neural compression • Adversarial robustness • Model alignment • Generative systems
 
-**Check out my portfolio** → [christianking.dev](https://christianking.dev)
+---
 
-Thanks for visiting.
+**Portfolio**: [christianking.dev](https://christianking.dev) | **Open to collaboration on challenging AI/ML problems**
