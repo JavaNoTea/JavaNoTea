@@ -2,7 +2,7 @@
 
 **AI/ML Engineer & Researcher** | MS Computer Engineering, UCF (July 2025)
 
-Specializing in neural architectures, model alignment, and scalable ML systems. Recent collaboration with Air Force Research Laboratory on interpretable RL and efficient neural representations.
+Specializing in neural architectures, model alignment, and scalable AI/ML systems. Recent collaboration with Air Force Research Laboratory on interpretable RL and efficient neural representations.
 
 ---
 
